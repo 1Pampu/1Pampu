@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín Piampiani</h1>
 <h3 align="center">Backend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **COMPLETAR**
+- 🌱 I’m currently learning **Flask**
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO LINK](PORTFOLIO LINK)
 
