@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO LINK](PORTFOLIO LINK)
+- 👨‍💻 All of my projects are available at [https://1pampu.github.io/my-portfolio/](https://1pampu.github.io/my-portfolio/)
 
 - 📫 How to reach me **piampianimartin@gmail.com**
 
