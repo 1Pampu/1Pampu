@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín Piampiani</h1>
 <h3 align="center">Backend developer from Argentina</h3>
 
-- 🌱 I’m currently working on my **Portfolio**
+- 🌱 I’m currently learning about **FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://1pampu.github.io/my-portfolio/](https://1pampu.github.io/my-portfolio/)
 
