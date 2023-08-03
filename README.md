@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín Piampiani</h1>
 <h3 align="center">Backend developer from Argentina</h3>
 
-- 🌱 I’m currently working in my project, **Poke Guess!**
+- 🌱 I’m currently working in my project, [Poke Guess!](https://1pampu.github.io/poke-guess/)
 
 - 👨‍💻 All of my projects are available at [https://1pampu.github.io/my-portfolio/](https://1pampu.github.io/my-portfolio/)
 
