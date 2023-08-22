@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working in my project, [Poke Guess!](https://1pampu.github.io/poke-guess/)
 
-- 👨‍💻 All of my projects are available at [https://1pampu.github.io/my-portfolio/](https://1pampu.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://1pampu.github.io/my-portfolio/)
 
 - 📫 How to reach me **piampianimartin@gmail.com**
 
