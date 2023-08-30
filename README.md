@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín Piampiani</h1>
 <h3 align="center">Backend developer from Argentina</h3>
 
-- 🌱 Currently working on a data analysis project.
+- 🌱 Currently learning about Django.
 
 - 👨‍💻 All my projects are available in my [Portfolio](https://1pampu.github.io/my-portfolio/)
 
