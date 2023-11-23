@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cs,js,html,css,arduino,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,mysql)](https://skillicons.dev)
 
 <h6 align="center"> Contact me:</h6>
 <div align="center">
