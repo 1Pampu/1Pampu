@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín Piampiani</h1>
 <h3 align="center">Backend developer from Argentina</h3>
 
-- 🌱 Currently developing a personal project, [Noty!](http://server-martin.duckdns.org:9999/feed/home/)
+- 🌱 Currently studying about AWS
 
 - 👨‍💻 All my projects are available in my [Portfolio](https://1pampu.github.io/my-portfolio/)
 
